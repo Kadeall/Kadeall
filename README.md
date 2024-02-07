@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kadeall. computer science major
-- interested in web and app developement
+- interested in web developement
 - Eager to contribute to innovative projects and collaborate with like-minded developers
   
   
